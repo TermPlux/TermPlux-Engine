@@ -1,6 +1,6 @@
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:termplux_engine/termplux_engine_method_channel.dart';
+import 'package:termplux_engine/src/termplux_engine_method_channel.dart';
 
 void main() {
   TestWidgetsFlutterBinding.ensureInitialized();

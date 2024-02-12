@@ -1,4 +1,4 @@
-package io.termplux.termplux_engine_example
+package io.termplux.engine
 
 import io.flutter.embedding.android.FlutterActivity
 

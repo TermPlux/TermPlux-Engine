@@ -5,7 +5,7 @@ import 'package:flutter/services.dart';
 import 'package:termplux_engine/termplux_engine.dart';
 
 void main() {
-  runApp(const MyApp());
+  runTermPluxApp(const MyApp());
 }
 
 class MyApp extends StatefulWidget {

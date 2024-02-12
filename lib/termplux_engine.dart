@@ -1,7 +1,7 @@
-import 'termplux_engine_platform_interface.dart';
+library termplux_engine;
 
-class TermPluxEngine {
-  Future<String?> getPlatformVersion() {
-    return TermPluxEnginePlatform.instance.getPlatformVersion();
-  }
-}
+export 'src/run.dart';
+
+export 'src/termplux_engine.dart';
+export 'src/termplux_engine_method_channel.dart';
+export 'src/termplux_engine_platform_interface.dart';
