@@ -1,8 +1,8 @@
-package io.termplux.engine
+package io.termplux.engine.app
 
 import com.idlefish.flutterboost.containers.FlutterBoostActivity
 
-class MainActivity: FlutterBoostActivity() {
+class TermPluxActivity: FlutterBoostActivity() {
     override fun getUrl(): String {
         return "/"
     }

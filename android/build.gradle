@@ -76,6 +76,8 @@ dependencies {
     implementation(rootProject.findProject(":flutter_boost"))
     implementation("com.blankj:utilcodex:1.31.1")
     implementation 'com.tencent.bugly:crashreport:4.1.9.3'
+    implementation'androidx.fragment:fragment-ktx:1.6.2'
+    implementation'com.google.android.material:material:1.11.0'
 
     implementation 'androidx.lifecycle:lifecycle-runtime-ktx:2.7.0'
     implementation 'androidx.activity:activity-compose:1.8.2'
