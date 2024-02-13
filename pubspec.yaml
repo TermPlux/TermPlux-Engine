@@ -10,10 +10,6 @@ dependencies:
     sdk: flutter
   flutter_ecosed:
     path: ../flutter_ecosed
-  flutter_boost:
-    git:
-      url: 'https://github.com/alibaba/flutter_boost.git'
-      ref: '5.0.1'
   plugin_platform_interface: ^2.0.2
 dev_dependencies:
   flutter_test:
